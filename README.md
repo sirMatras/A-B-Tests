@@ -6,7 +6,7 @@
 
 * Python (Pandas, NumPy, SciPy, Statsmodels)
 * Jupyter Notebooks
-* Статистические тесты (Z-тест, t-тест, ANOVA)
+* Статистические тесты (Z-тест, t-тест, ANOVA, Bootstrap)
 
 ### **Цель проектов:**
 
